@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T08:58:14.394Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228" version="13.9.7" etag="-2wbWnrVvsAhZUzdxnyK" type="github"><diagram id="ZSZ9gewnpqJa1BOzN__s">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-13T09:01:57.763Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228" etag="PMzAp1Ow4ojjSMWPbuHY" version="13.9.7" type="github">
+  <diagram id="ZSZ9gewnpqJa1BOzN__s" name="Page-1">
+    <mxGraphModel dx="485" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nRSXh65QhCwLrqA180u8-1" value="&lt;br&gt;Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nRSXh65QhCwLrqA180u8-2" value="LXC" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRSXh65QhCwLrqA180u8-3" value="Docker" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRSXh65QhCwLrqA180u8-4" value="/home/foo/share" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="200" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
